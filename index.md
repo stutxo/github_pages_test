@@ -5,6 +5,9 @@ title: cool rating
 
 # Here is my cool rating site
 
+[![Contribute on GitHub](https://img.shields.io/badge/Contribute%20on-GitHub-blue?logo=github)](https://github.com/stutxo/github_pages_test)
+
+
 Here is a sample table:
 
 | Name    | how cool |
