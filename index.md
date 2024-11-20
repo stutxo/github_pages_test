@@ -7,9 +7,6 @@ title: cool rating
 
 [![Contribute on GitHub](https://img.shields.io/badge/Contribute%20on-GitHub-blue?logo=github)](https://github.com/stutxo/github_pages_test)
 
-
-Here is a sample table:
-
 | Name    | how cool |
 |---------|-----|
 | Satoshi |   10/10 |
