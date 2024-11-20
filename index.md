@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Test
+title: cool rating
 ---
 
-# Welcome to My Site
+# Here is my cool rating site
 
 Here is a sample table:
 
-| Name    | Age | Occupation |
-|---------|-----|------------|
-| Alice   | 30  | Engineer   |
-| Bob     | 25  | Designer   |
-| Charlie | 35  | Teacher    |
+| Name    | how cool |
+|---------|-----|
+| Satoshi |   10/10 |
+| Stu     | 9/10  | 
