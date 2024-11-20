@@ -11,3 +11,4 @@ title: cool rating
 |---------|-----|
 | Satoshi |   10/10 |
 | Stu     | 9/10  | 
+| Liz     | 9.5/10  | 
